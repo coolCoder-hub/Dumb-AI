@@ -1,47 +1,29 @@
-Dumb AI
-Dumb AI is a simple text-based AI that can answer general knowledge questions and solve basic math problems. It works by matching user input with stored knowledge or performing simple calculations.
+# Dumb AI
 
-Features
-Answer general knowledge questions from text files
-Solve basic math problems (addition and multiplication)
-Easy to expand by adding more knowledge files
-Installation
-Make sure you have Python installed.
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/coolCoder-hub/Dumb-AI.git
-cd Dumb-AI
-Run the AI:
-nginx
-Copy
-Edit
-python ai.py
-How to Use
-Run the script and type a question.
-For math, enter expressions like 2 + 2 or 3 * 5.
-Type exit to quit.
-Adding Knowledge
-You can expand the AI's knowledge by adding new .txt files in the knowledge folder. Each file represents a topic.
+Dumb AI is a simple AI chatbot that can answer basic knowledge questions and solve simple math problems (addition and multiplication). Users can also expand its knowledge by adding text files to the knowledge folder.
 
-Example:
-Creating a new file:
+## Features
 
-Navigate to the knowledge folder.
-Create a new text file, e.g., science.txt.
-Add facts to the file, one per line:
-nginx
-Copy
-Edit
-The Earth orbits the Sun.
-Water boils at 100 degrees Celsius.
-Save the file and restart the AI.
-The AI will now use the new information when answering questions!
+- **Answers general knowledge questions.**
+- **Solves basic math problems** (addition and multiplication).
+- **Allows users to add more knowledge** by creating text files.
 
-Contributing
-Feel free to submit issues or pull requests to improve Dumb AI.
+## Installation
 
-License
-This project is open-source under the MIT License.
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/coolCoder-hub/Dumb-AI.git
+    cd Dumb-AI
+    ```
+
+2. Run the AI:
+
+    ```bash
+    python ai.py
+    ```
+
+## Usage
+
+When you run the script, the AI will prompt you to ask a question:
 
