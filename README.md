@@ -23,7 +23,14 @@ Dumb AI is a simple AI chatbot that can answer basic knowledge questions and sol
     python ai.py
     ```
 
-## Usage
+## How to add more Knowledge
 
-When you run the script, the AI will prompt you to ask a question:
+In the knowledge folder add a new txt file name it whatever you want and add in the knowledge in the following layout:
 
+
+- There are 365 days in a year
+- 4+3 = 7
+- 3x3 = 9
+
+## License
+This product is open source under the MIT License
