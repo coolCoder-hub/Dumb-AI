@@ -1,0 +1,6 @@
+A minute has 60 seconds.
+An hour has 60 minutes.
+A day has 24 hours.
+A week has 7 days.
+A year has 12 months.
+February has 28 days, except in leap years when it has 29.

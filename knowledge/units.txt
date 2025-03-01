@@ -1,0 +1,11 @@
+1 kilometer = 1000 meters
+1 meter = 100 centimeters
+1 kilogram = 1000 grams
+1 pound = 0.453 kilograms
+1 inch = 2.54 centimeters
+1 mile = 1.609 kilometers
+1 liter = 1000 milliliters
+1 meter = 39.37 inches
+1 foot = 12 inches
+1 yard = 3 feet
+1 kilometer = 0.621 miles
