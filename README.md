@@ -1,3 +1,5 @@
+* keep in mind this is still very early in it's progress and is very recently created
+
 # Dumb AI
 
 Dumb AI is a simple AI chatbot that can answer basic knowledge questions and solve simple math problems (addition and multiplication). Users can also expand its knowledge by adding text files to the knowledge folder.
