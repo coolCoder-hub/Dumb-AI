@@ -1,4 +1,4 @@
-* keep in mind this is still very early in it's progress and is very recently created
+*keep in mind this is still very early in it's progress and is very recently created
 
 # Dumb AI
 
